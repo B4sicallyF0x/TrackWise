@@ -1,1 +1,2 @@
-typer
+typer[all]==0.12.3
+rich==13.7.1
